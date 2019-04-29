@@ -29,6 +29,8 @@ public class Teste2 {
         
         System.out.printf("A soma entre %d e %d é = %d \n", a, b, resposta);
         
+        System.out.println("Hello World!");
+        
     }
     
 }
